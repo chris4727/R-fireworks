@@ -15,3 +15,4 @@ Explore the impact of July 4th fireworks on PM2.5 concentrations, and public hea
 - [ ] Determine what weather data to include. Wind speed? Barometric pressure?
 - [ ] Determine data source for population density.
 - [ ] Create R script
+- [ ] Add bibliography
