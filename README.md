@@ -11,6 +11,21 @@ Explore the impact of July 4th fireworks on PM2.5 concentrations, and public hea
 # TODO
 
 - [ ] Select PM2.5 monitors
+       - Mt Rainier-Jackson Visitors Ctr
+       - Tacoma-S 36th St, Established 
+       - Tacoma-L Street, Established
+       - Tacoma-S Adams St, Established ,
+       - Neah Bay 2-Makah Tribe, Established 2010-02-17,
+       - All stations, PM2.5 only: https://airqualitymap.ecology.wa.gov/site-report/176-31-53-467-127?report=eyJtb25pdG9ycyI6WyIyMSJdLCJwZXJpb2QiOiJ3Iiwic3RhcnREYXRlIjoiMjAyNS0wNy0wMVQwNzowMDowMC4wMDBaIiwiZW5kRGF0ZSI6IjIwMjUtMDctMDdUMDc6MDA6MDAuMDAwWiIsImF2Z1R5cGUiOiJhdmVyYWdlIiwiYXZlcmFnaW5nVGltZSI6MX0%3D
+       - Tacoma-S 36th St, PM2.5, Wind speed, Wind direction: https://airqualitymap.ecology.wa.gov/site-report/176-31-53-467-127?report=eyJtb25pdG9ycyI6WyIyMSJdLCJwZXJpb2QiOiJ3Iiwic3RhcnREYXRlIjoiMjAyNS0wNy0wMVQwNzowMDowMC4wMDBaIiwiZW5kRGF0ZSI6IjIwMjUtMDctMDdUMDc6MDA6MDAuMDAwWiIsImF2Z1R5cGUiOiJhdmVyYWdlIiwiYXZlcmFnaW5nVGltZSI6MX0%3D
+- [ ] Select Report criteria
+       - Report type: Hourly Data Report
+       - period: Weekly
+       - Start Date: 2025-07-01
+       - End Date: 2025-07-07
+       - Type: Average
+       - Averaging Time: 1 Hourly
+       - Monitors: PM2.5, Wind Direction, Wind Speed
 - [ ] Download PM2.5 data
 - [ ] Determine what weather data to include. Wind speed? Barometric pressure?
 - [ ] Determine data source for population density.
