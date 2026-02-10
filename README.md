@@ -10,7 +10,7 @@ Explore the impact of July 4th fireworks on PM2.5 concentrations, and public hea
 
 # TODO
 
-- [ ] Look into sourcing data from [Open AQ](https://explore.openaq.org/?location=1706&sensors=false#8.33/47.243/-121.897)
+- [ ] Look into sourcing data from [Open AQ API](https://docs.openaq.org/about/about)
 - [ ] Select PM2.5 monitors
        - Mt Rainier-Jackson Visitors Ctr
        - Tacoma-S 36th St, Established 
